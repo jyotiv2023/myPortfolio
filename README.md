@@ -2,14 +2,6 @@
 
 Welcome to the GitHub repository for my personal portfolio website! This website serves as a showcase of my skills, projects, and experience in the field of Frontend Developement.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Demo](#demo)
-
-
-
 ## Features
 
 - **Responsive Design:** This portfolio is designed to be accessible and visually appealing on various devices, including desktops, tablets, and smartphones.
