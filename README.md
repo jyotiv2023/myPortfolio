@@ -1,21 +1,18 @@
 # Portfolio Website
 
-Welcome to the GitHub repository for my personal portfolio website! This website serves as a showcase of my skills, projects, and experience in the field of [Your Field/Industry].
+Welcome to the GitHub repository for my personal portfolio website! This website serves as a showcase of my skills, projects, and experience in the field of Frontend Developement.
 
 ## Table of Contents
-- [About](#about)
+
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Demo](#demo)
 
 
-## About
-
-This portfolio website is designed to provide an overview of my professional background, skills, and showcase some of the projects I have worked on. It is a platform for me to present my work in a visually appealing and organized manner.
 
 ## Features
 
-- **Responsive Design:** The website is designed to be accessible and visually appealing on various devices, including desktops, tablets, and smartphones.
+- **Responsive Design:** This portfolio is designed to be accessible and visually appealing on various devices, including desktops, tablets, and smartphones.
 
 - **Project Showcase:** A section dedicated to displaying details about the projects I have worked on. Each project includes a brief description, technologies used, and a link to the project repository.
 
